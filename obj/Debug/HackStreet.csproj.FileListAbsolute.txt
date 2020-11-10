@@ -1,0 +1,13 @@
+C:\HackStreet\HackStreet\bin\Debug\HackStreet.exe.config
+C:\HackStreet\HackStreet\bin\Debug\HackStreet.exe
+C:\HackStreet\HackStreet\bin\Debug\HackStreet.pdb
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.csprojAssemblyReference.cache
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.Form1.resources
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.Information.resources
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.PartyPick.resources
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.Properties.Resources.resources
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.csproj.GenerateResource.cache
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.exe
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.pdb
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.Actions.resources
+C:\HackStreet\HackStreet\obj\Debug\HackStreet.Skills.resources
