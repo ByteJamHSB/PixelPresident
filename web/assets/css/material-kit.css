@@ -14780,7 +14780,6 @@ textarea {
 .navbar .navbar-brand {
   position: relative;
   color: inherit;
-  height: 50px;
   font-size: 1.125rem;
   line-height: 30px;
   padding: 0.625rem 0;
@@ -16824,7 +16823,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 }
 
 .page-header {
-  height: 100vh;
+  height: 75vh;
   background-position: center center;
   background-size: cover;
   margin: 0;

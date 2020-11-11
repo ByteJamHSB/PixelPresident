@@ -1,6 +1,6 @@
 <div class="col-md-6">  <!-- NEW team member box -->
     <div class="card card-nav-tabs">
-        <div class="card-header card-header-primary">
+        <div class="card-header card-header-danger">
             <div class="nav-tabs-navigation">
                 <div class="nav-tabs-wrapper">
                     <ul class="nav nav-tabs" data-tabs="tabs">
@@ -34,7 +34,7 @@
 
 <div class="col-md-6">  <!-- NEW team member box -->
     <div class="card card-nav-tabs">
-        <div class="card-header card-header-primary">
+        <div class="card-header card-header-danger">
             <div class="nav-tabs-navigation">
                 <div class="nav-tabs-wrapper">
                     <ul class="nav nav-tabs" data-tabs="tabs">

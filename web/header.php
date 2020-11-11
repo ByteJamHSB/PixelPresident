@@ -20,13 +20,11 @@
               <i class="material-icons">apps</i>Games</a>
             <div class="dropdown-menu dropdown-with-icons">
               <a href="http://localhost/PixelPresident/web/game-1.php" class="dropdown-item">
-                <i class="material-icons">games</i>Demon's Souls</a>
-                <a href="http://localhost/PixelPresident/web/game-2.php" class="dropdown-item">
-                <i class="material-icons">games</i>Destiny</a>
+                <i class="material-icons">games</i>Presidential Campaign</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="" onclick="">
+            <a class="nav-link" href="http://localhost/PixelPresident/web/about_us.php">
               <i class="material-icons">groups</i>About Us</a>
           </li>
         </ul>

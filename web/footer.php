@@ -6,13 +6,10 @@
             <a href="http://localhost/PixelPresident/web/index.php">Home</a>
           </li>
           <li>
-            <a href="http://localhost/PixelPresident/web/game-1.php">Demon's Soul</a>
+            <a href="http://localhost/PixelPresident/web/game-1.php">Presidential Campaign</a>
           </li>
           <li>
-            <a href="http://localhost/PixelPresident/web/game-2.php">Destiny</a>
-          </li>
-          <li>
-            <a href="">About Us</a>
+            <a href="http://localhost/PixelPresident/web/about_us.php">About Us</a>
           </li>
         </ul>
       </nav>
@@ -21,7 +18,7 @@
         <script>
           document.write(new Date().getFullYear())
         </script>, made with <i class="material-icons">favorite</i> by
-        <a href="" target="_blank">Hackstreet Boys</a>
+        <a class="text-danger" href="" target="_blank">Hackstreet Boys</a>
       </div>
     </div>
     <br>

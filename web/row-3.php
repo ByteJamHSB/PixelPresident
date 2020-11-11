@@ -1,6 +1,6 @@
 <div class="col-md-6">  <!-- NEW team member box -->
     <div class="card card-nav-tabs">
-        <div class="card-header card-header-primary">
+        <div class="card-header card-header-danger">
             <div class="nav-tabs-navigation">
                 <div class="nav-tabs-wrapper">
                     <ul class="nav nav-tabs" data-tabs="tabs">
@@ -12,7 +12,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link">
-                            <i class="material-icons">chat</i>
+                            <i class="material-icons">task</i>
                             Game C# Developer - Video Editor
                             </a>
                         </li>
@@ -34,7 +34,7 @@
 
 <div class="col-md-6">  <!-- NEW team member box -->
     <div class="card card-nav-tabs">
-        <div class="card-header card-header-primary">
+        <div class="card-header card-header-danger">
             <div class="nav-tabs-navigation">
                 <div class="nav-tabs-wrapper">
                     <ul class="nav nav-tabs" data-tabs="tabs">
@@ -46,7 +46,7 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link">
-                            <i class="material-icons">chat</i>
+                            <i class="material-icons">task</i>
                             Assistant Graphics Designer
                             </a>
                         </li>
